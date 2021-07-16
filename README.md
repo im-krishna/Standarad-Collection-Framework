@@ -3,7 +3,7 @@ Designed a library for certain data structure for C language. These files can be
 
 <hr />
 
-###  SList.c and DList.c   
+###  Slist.c and Dlist.c   
 Implemented Singly Linked List and Doubly Linked List.
 ###  ArrayList.c  
 Implemented growable array using dynamic memory allocation in c language.
